@@ -1,7 +1,9 @@
-GroundStudio Jade Nano
+GroundStudio Jade N1
 ====================================
+![JadeN1](https://github.com/GroundStudio/Jade_N1/assets/77836107/cf48c066-548e-430d-bc4f-e3a3d12f10ca)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/1726-placa-de-dezvoltare-jade-nano.html)
+
+Get it from [ardushop.ro](https://ardushop.ro/ro/118-groundstudio)
 
 Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
 
@@ -12,14 +14,14 @@ Development board based on ATmega328P and HT42B534-2 for USB comunication.
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_Nano/tree/main/Documentation/) -- Pinout.
-* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_Nano/tree/main/Hardware/) -- Schematics, layout.
+* [/Documentation](https://github.com/GroundStudio/Jade_N1/tree/main/Documentation) -- Pinout.
+* [/Hardware](https://github.com/GroundStudio/Jade_N1/tree/main/Hardware) -- Schematics, layout.
 
 Versions
 -------------------
 *(Not all tags shown)*
 
-* [REV0.2]
+* [REV1.0.0]
 
 License
 -------------------

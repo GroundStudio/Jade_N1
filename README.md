@@ -31,4 +31,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 
 Please consider contributing back to this library or others to help the open-source hardware community continue to thrive and grow! 
 
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000025.html)   
+   
+[![certification-mark-RO000025-wide](https://github.com/GroundStudio/Jade_N1/assets/77836107/1059d0b0-0193-4fa0-b75d-e8f3b15e9d72)
+](https://certification.oshwa.org/ro000025.html)
+
 
